@@ -98,8 +98,11 @@ Pull requests and issue suggestions are welcome!
 
 👨‍💼 Author
 Rajangshu Kumar
+
 📧 Email: rajangshu.kumar@example.com
+
 🔗 GitHub: github.com/Rajangshu
+
 🔗 LinkedIn:www.linkedin.com/in/rajangshu-kumar-841116250
 
 
