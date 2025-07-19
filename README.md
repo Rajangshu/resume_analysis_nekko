@@ -85,12 +85,16 @@ npm start
 Create the following .env files in their respective folders:
 
 analyzer/.env:
+
 OPENROUTER_API_KEY=your_openrouter_api_key
 
 
 server/.env:
+
 MONGODB_URI=mongodb://localhost:27017/resume_analysis
+
 PORT=5000
+
 Replace with your actual API key and database URI as needed.
 
 🤝 Contributing
