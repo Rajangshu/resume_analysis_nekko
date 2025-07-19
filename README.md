@@ -97,13 +97,13 @@ PORT=5000
 
 Replace with your actual API key and database URI as needed.
 
-🤝 Contributing
+🤝 Contributing:
 Pull requests and issue suggestions are welcome!
 
 👨‍💼 Author
 Rajangshu Kumar
 
-📧 Email: rajangshu.kumar@example.com
+📧 Email: rajangshukumar@gmail.com
 
 🔗 GitHub: github.com/Rajangshu
 
